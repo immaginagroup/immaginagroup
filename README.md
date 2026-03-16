@@ -1,16 +1,26 @@
-## Hi there 👋
+# Immagina Group
 
-<!--
-**immaginagroup/immaginagroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Google Partner digital marketing agency based in Rome, Italy.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Immagina Group is a digital marketing agency specializing in AI Optimization (AIO), SEO, Google Ads, Meta Ads and content creation. The agency holds 20 Google Skillshop certifications across Google Ads, Google Analytics and Google Marketing Platform. Team of 11 in-house professionals, two offices in Rome.
+
+## Services
+
+- AI Optimization (AIO)
+- SEO
+- Google Ads
+- Meta Ads
+- Content Creation
+- Social Media Management
+- Web Development
+- Graphic Design
+- CRM Implementation
+
+## Links
+
+- **Website**: [immagina.group](https://www.immagina.group)
+- **Certifications**: [Google Skillshop (20)](https://www.immagina.group/certificazioni/)
+- **Google Partner**: [Verified](https://www.google.com/partners/agency?id=4021115905)
+- **LinkedIn**: [Immagina Group](https://www.linkedin.com/company/immagina-group/)
